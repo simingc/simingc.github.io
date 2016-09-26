@@ -1,0 +1,50 @@
+/* Stylesheet for resume.html */
+
+body{
+	font-size: 11pt;
+	font-family:CenturyGothic, sans-serif;
+	margin-left: 20%;
+	margin-right: 20%;
+	line-height: 125%;
+	
+}
+
+
+h1{
+	font-family:Impact, Charcoal, sans-serif;
+	font-size: 50pt;
+	padding-top: 30px;
+	padding-bottom: 50px;
+	padding-left: 25px;
+	padding-right: 25px;
+	margin-bottom: 0cm;
+
+}
+
+h3{
+	font-family:Impact, Charcoal, sans-serif;
+	font-size: 20pt;
+}
+
+.education, .coursework, .experience, .skills, .activities{
+	background-color: #ffcccc;
+	padding-top: 5px;
+	padding-right: 25px;
+	padding-left: 25px;
+	padding-bottom: 20px;
+	margin-top: 0cm;
+}
+
+.coursework, .skills{
+	background-color: #ffb3b3;
+}
+
+.bold{
+	font-weight: bold;
+}
+
+.italic{
+	font-style: italic;
+	font-weight: bold;
+}
+

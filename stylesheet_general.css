@@ -1,0 +1,61 @@
+/* stylesheet for index.html and bio.html */
+
+h1{
+	font-family:Impact, Charcoal, sans-serif;
+	font-size: 55pt;
+}
+
+p{
+	background-color: #ffcccc;
+	font-family: "Central Gothic", CenturyGothic, AppleGothic, sans-serif;
+	font-size: 14pt;
+	padding-right: 20%;
+	padding-left: 20%;
+	padding-top: 3%;
+	padding-bottom: 3%;
+}
+
+#head2{
+	text-align: center;
+}
+
+
+#index{
+	position: relative;
+	top: 110px;
+	left: 30px;
+}
+
+img{
+	width: 50%;
+	height: 50%;
+	position: relative;
+	left: 450px;
+}
+
+a:link{
+	color: #000000;
+	padding: 14px 25px;
+	text-align: center;
+	text-decoration: none;
+	font-family:Impact, Charcoal, sans-serif;
+	font-size: 30pt;
+}
+
+#resume{
+	position: relative;
+	top: -300px;
+	left: 15px;
+}
+
+#bio{
+	position: relative;
+	top: -255px;
+	left: 15px;
+}
+
+a:hover, a:active, a:visited{
+	background-color: #ffcccc;
+	color: #336699;
+}
+
