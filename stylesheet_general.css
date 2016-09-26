@@ -22,15 +22,14 @@ p{
 
 #index{
 	position: relative;
-	top: 110px;
 	left: 30px;
 }
 
 img{
-	width: 50%;
-	height: 50%;
-	position: relative;
-	left: 450px;
+	width: 45%;
+	height: 45%;
+	/*position: relative;
+	left: 450px;*/
 }
 
 a:link{
@@ -44,18 +43,21 @@ a:link{
 
 #resume{
 	position: relative;
-	top: -300px;
-	left: 15px;
+	bottom: 350px;
+	left: 550px;
 }
 
 #bio{
 	position: relative;
-	top: -255px;
-	left: 15px;
+	bottom:300px;
+	left: 550px;
 }
 
 a:hover, a:active, a:visited{
-	background-color: #ffcccc;
 	color: #336699;
+}
+
+a:hover{
+	font-size: 33pt;
 }
 
